@@ -1,6 +1,0 @@
-      	# The largest heading                                   
-	
-	*This Page is just for fy C++ homework*
-
-
-
